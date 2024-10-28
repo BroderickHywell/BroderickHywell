@@ -29,8 +29,8 @@
 <hr/>
 <h2>Connect With Me</h2>
 <ul>
-    <li>[Linkedin](https://www.linkedin.com/in/broderick-hywell-43b0161a4/)</li>
-    <li>Email: zerothesu@gmail.com</li>
+    <li><b>Linkedin:</b> https://www.linkedin.com/in/broderick-hywell-43b0161a4/</li>
+    <li><b>Email:</b> zerothesu@gmail.com</li>
 </ul>
 
 <hr/>
