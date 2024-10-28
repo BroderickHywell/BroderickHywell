@@ -1,52 +1,37 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ZeroBitzz.ZeroBitzz" />
+<h3>Hello! I'm Broderick Hywell, A passionate software engineer obsessed with challenging myself at every chance I can get. I'm currently working on getting a software engineering job!</h3>
+<h2>About Me</h2>
+<span>With a vast background in various technologies and problem solving ability, I will relentlessly figure out problems from every possible angle with an open mind to any new knowledge I can aquire. From robotics to REST APIs, I seek to level up my programming skillset in every way possible. My passion is learning new things and meeting/working with new people in the programming world. </span>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=white?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋👽;+I'm+Broderick+Hywell!;" />
-</h1>
-
-<h3 align="center">I'm an adaptive, enthusiastic, and passionate software engineer</h3>
-
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on getting a job in software engineering!
-
-💬 Ask me about **Node.js, React, Javascript... or anything [here](https://github.com/ZeroBitzz/ZeroBitzz/issues)**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:zerothesu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/broderick-hywell-43b0161a4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://broderick-howell.netlify.app/" target="blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ I Have Worked in These Technologies ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git,php,arduino" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c,java,mysql" /><br>
-</div>
-
-<br/>
 <hr/>
+<h2>Technical Skills</h2>
+<ul>
+    <li><b>Languages:</b> Javascript, Python, C++</li>
+    <li><b>Frameworks & Libraries:</b> React, Next.js, Node.js</li>
+    <li><b>Tools & Platforms:</b> Github, Docker, Visual Studio Code</li>
+</ul>
 
-<div align="center">
-  <h2>🐍 My Contributions Feed My Pet Snake! 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ZeroBitzz/ZeroBitzz/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+<hr/>
+<h2>Key Projects</h2>
+<ul>
+    <li>React Weather API App(in progress)</li>
+    <li>Weather API Stickman App(in progress)</li>
+    <li>Productivity App(in progress)</li>
+    <li>C-ZER the Robot(in progress)</li>
+</ul>
+
+<hr/>
+<h2>Professional Goals</h2>
+<ul>
+    <li><b>Work:</b> Get hired at a company for software engineering and be a great asset.</li>
+    <li><b>Continuous Learning:</b> Keep improving my programming skills and learning new ones often.</li>
+</ul>
+
+<hr/>
+<h2>Connect With Me</h2>
+<ul>
+    <li>[Linkedin](https://www.linkedin.com/in/broderick-hywell-43b0161a4/)</li>
+    <li>Email: zerothesu@gmail.com</li>
+</ul>
 
 <hr/>
 
