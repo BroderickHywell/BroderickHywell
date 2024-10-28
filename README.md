@@ -38,8 +38,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZeroBitzz&theme=dark&border_radius=10" alt="GitHub Streak" /></a>
-  <img width=465 src="https://github-readme-stats.vercel.app/api?username=ZeroBitzz&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BroderickHywell&theme=dark&border_radius=10" alt="GitHub Streak" /></a>
+  <img width=465 src="https://github-readme-stats.vercel.app/api?username=BroderickHywell&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
 </div>
 <br/><br/>
