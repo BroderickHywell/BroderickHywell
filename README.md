@@ -15,7 +15,7 @@
 <ul>
     <li>React Weather API App(in progress)</li>
     <li>Weather API Stickman App(in progress)</li>
-    <li>Productivity App(in progress)</li>
+    <li>React Productivity App(in progress)</li>
     <li>C-ZER the Robot(in progress)</li>
 </ul>
 
