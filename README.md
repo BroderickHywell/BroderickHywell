@@ -29,7 +29,7 @@
 <hr/>
 <h2>Connect With Me</h2>
 <ul>
-    <li><b>Linkedin:</b> https://www.linkedin.com/in/broderick-hywell-43b0161a4/</li>
+    <li><b>Linkedin:</b> https://www.linkedin.com/in/broderickhywell</li>
     <li><b>Email:</b> zerothesu@gmail.com</li>
 </ul>
 
