@@ -13,7 +13,8 @@
 <hr/>
 <h2>Key Projects</h2>
 <ul>
-    <li>React Weather API App(in progress)</li>
+    <li>Professional README Generator</li>
+    <li>Password Generator</li>
     <li>Weather API Stickman App(in progress)</li>
     <li>React Productivity App(in progress)</li>
     <li>C-ZER the Robot(in progress)</li>
