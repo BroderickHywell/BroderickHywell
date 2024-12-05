@@ -1,31 +1,19 @@
 <h3>Hello! I'm Broderick Hywell, A passionate software engineer obsessed with challenging myself at every chance I can get. I'm currently working on getting a software engineering job!</h3>
 <h2>About Me</h2>
-<span>With a vast background in various technologies and problem solving ability, I will relentlessly figure out problems from every possible angle with an open mind to any new knowledge I can aquire. From robotics to REST APIs, I seek to level up my programming skillset in every way possible. My passion is learning new things and meeting/working with new people in the programming world. </span>
+<span> I study, I engineer, I sleep </span>
 
 <hr/>
 <h2>Technical Skills</h2>
 <ul>
-    <li><b>Languages:</b> Javascript, Python, C++</li>
-    <li><b>Frameworks & Libraries:</b> React, Next.js, Node.js</li>
-    <li><b>Tools & Platforms:</b> Github, Docker, Visual Studio Code</li>
+    Software engineering(mern stack, python, git version control, c++, arduino, raspberry pi)
+    Robotics engineering
+    Electrical engineering
+    Mechanics
+    Engineering design and prototyping(cad software, blueprints, etc)
+    Compostites(carbon fiber and fiberglass hand manufacturing/work)
 </ul>
 
 <hr/>
-<h2>Key Projects</h2>
-<ul>
-    <li>Professional README Generator(in progress)</li>
-    <li>Password Generator</li>
-    <li>Weather API Stickman App(in progress)</li>
-    <li>React Productivity App(in progress)</li>
-    <li>C-ZER the Robot(in progress)</li>
-</ul>
-
-<hr/>
-<h2>Professional Goals</h2>
-<ul>
-    <li><b>Work:</b> Get hired at a company for software engineering and be a great asset.</li>
-    <li><b>Continuous Learning:</b> Keep improving my programming skills and learning new ones often.</li>
-</ul>
 
 <hr/>
 <h2>Connect With Me</h2>
