@@ -1,5 +1,4 @@
-<h3>Hello! I'm Broderick Hywell, A passionate software engineer obsessed with challenging myself at every chance I can get. I'm currently working on getting a software engineering job!</h3>
-<h2>About Me</h2>
+<h1>About Me</h1>
 <span> I study, I engineer, I sleep </span>
 
 <hr/>
