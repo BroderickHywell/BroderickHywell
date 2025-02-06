@@ -7,7 +7,7 @@
     <li>Software engineering(mern stack, python, git version control, c++, arduino, raspberry pi)</li>
     <li>Robotics engineering</li>
     <li>Electrical engineering</li>
-    <li>Mechanics</li>
+    <li>Mechanical engineering</li>
     <li>Engineering design and prototyping(cad software, blueprints, etc)</li>
     <li>Compostites(carbon fiber and fiberglass hand manufacturing/work)</li>
 </ul>
