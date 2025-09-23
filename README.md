@@ -1,5 +1,5 @@
 <h1>About Me</h1>
-<span> I study, I engineer, I sleep </span>
+<span>visting current time period</span>
 
 <hr/>
 <h2>Skills</h2>
@@ -7,7 +7,7 @@
     <li>Software engineering(mern stack, python, git version control, c++, arduino, raspberry pi)</li>
     <li>Robotics engineering(arduino, wandering robots, face detecting interaction robots, speaking robots, etc.)</li>
     <li>Electrical engineering(building circuitry, programming circuits, soldering, etc)</li>
-    <li>Mechanical engineering(Car repair, Car modification)</li>
+    <li>Mechanical engineering(car repair, car modification, pneumatic systems, gravity systems, DTG and DFT printing systems at amazon)</li>
     <li>Engineering design and prototyping(cad software, blueprints, etc)</li>
     <li>Compostite Manufacturing(carbon fiber and fiberglass manufacturing/work)</li>
 </ul>
