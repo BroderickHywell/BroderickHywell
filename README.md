@@ -1,5 +1,5 @@
 <h1>About Me</h1>
-<span>visting current time period</span>
+<span>Perpetuator of Retrofuturism</span>
 
 <hr/>
 <h2>Skills</h2>
