@@ -4,7 +4,7 @@
 <hr/>
 <h2>Skills/What I Have Worked With</h2>
 <ul>
-    <li>Electrical engineering(designing circuits, programming circuits, soldering, electrical troubleshooting, electrical repair/modification on existing systems etc)</li>
+    <li>Electrical engineering(designing circuits, programming circuits, soldering, electrical troubleshooting, electrical repair/modification on existing systems etc...)</li>
     <li>Chemistry(testing of PH's of large scale manufactoring chemicals, handling of toxic chemicals, creation of mixtures to procure correct output of product in industrial settings, etc...)</li>
     <li>Mechanical engineering(car repair, car modification, pneumatic systems, gravity fed M&R printing systems repair and modification, Kornit printing systems repair and modification, etc...)</li>
     <li>Engineering design and prototyping(cad software, blueprints, schematic creating and reading, collaboration on a variation of scaled projects that had real world implementation, etc...)</li>
