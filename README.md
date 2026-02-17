@@ -1,5 +1,5 @@
 <h1>About Me</h1>
-<span>Perpetuator of Retrofuturism</span>
+<span>man of science/span>
 
 <hr/>
 <h2>Skills</h2>
@@ -15,7 +15,7 @@
 <hr/>
 
 <hr/>
-<h2>Connect With Me, Emotionally</h2>
+<h2>Connect</h2>
 <ul>
     <li><b>Linkedin:</b> https://www.linkedin.com/in/broderickhywell</li>
     <li><b>Email:</b> zerothesu@gmail.com</li>
