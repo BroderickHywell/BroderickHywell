@@ -10,7 +10,7 @@
     <li>Engineering design and prototyping(cad software, 3d printing, blueprinting, schematic creating and reading, collaboration on a variation of scaled projects that had real world implementation, etc...)</li>
     <li>Robotics engineering(servos, environmental sensing modules, robot design and prototyping, facial recognition integration, etc...)</li>
     <li>Compostite Manufacturing(carbon fiber and fiberglass design and manufactoring, cutting and building of projects using composites and utilizing safety standards due to toxic environments, etc...)</li>
-    <li>Software engineering(Java, Javascript, ruby, python, C, C++, C#, computer science, git version control, arduino, raspberry pi, etc...)</li>
+    <li>Software engineering(Java, Javascript, ruby, python, C, C++, C#, computer science, git version control, arduino, raspberry pi, flutter, dart, etc...)</li>
 </ul>
 
 <hr/>
