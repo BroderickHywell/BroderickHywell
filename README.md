@@ -1,5 +1,5 @@
 <h1>About Me</h1>
-<span>man of science/span>
+<span>man of science</span>
 
 <hr/>
 <h2>Skills</h2>
