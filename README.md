@@ -1,7 +1,3 @@
-<h1>About Me</h1>
-<span>man of science</span>
-
-<hr/>
 <h2>Skills/What I Have Worked With</h2>
 <ul>
     <li>Electrical engineering(designing circuits, programming circuits, soldering, electrical troubleshooting, electrical repair/modification on existing systems etc...)</li>
